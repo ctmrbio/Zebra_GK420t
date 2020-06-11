@@ -1,0 +1,7 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.zpl\shell\print]
+@="Print Zebra Printer Language File on DEFAULT printer."
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.zpl\shell\print\command]
+@="notepad++ -noPlugin -quickPrint "%1""
