@@ -25,5 +25,6 @@ The command will print the file on default printer with Notepad++ program
 
 Some ZebraPrinterLanguage*.reg files in this repository are another way to enable printing from context menu, but this approach does not work correctly
 I have used information from this pages to set up barcode printing:
+https://stackoverflow.com/questions/4442122/send-raw-zpl-to-zebra-printer-via-usb
 https://stackoverflow.com/questions/2123762/add-menu-item-to-windows-context-menu-only-for-specific-filetype
 https://docs.microsoft.com/en-us/windows/win32/shell/app-registration#registering-verbs-and-other-file-association-information
