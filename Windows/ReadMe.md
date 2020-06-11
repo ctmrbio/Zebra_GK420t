@@ -9,7 +9,7 @@ In "Printer settings" dialog box go into "Import/Export" tab and import the driv
 After this printer should be able to print tube barcodes on 50x9 mm labels.
 If something going wrong then check driver settings manually:
 1. On "Options" tab in "Paper Format" choose "mm", in "Size" settings, set the Width to 50 and Height to 990, in "Unprintable Area" settings all values should be zero.
-2. On "Advanced Setup" tab all settings of "Adjustment" should be zero. Pree "Other" button to go to "Other settings" dialog box.
+2. On "Advanced Setup" tab all settings of "Adjustment" should be zero. Press "Other" button to go to "Other settings" dialog box.
 3. Here in "Other settings" dialog box in "Commands" settings mark "Enable Passthrough Mode", ensure that "Start sequence" is "${" and "End sequence" is "$)".
 Now printer should print correct.
 4. All other settings should be in there default state like after initial printer installation.
